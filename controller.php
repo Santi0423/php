@@ -28,4 +28,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Error: " . $sql . "<br>" . $db->error;
     }
 }
+//cree las rams
 ?>
